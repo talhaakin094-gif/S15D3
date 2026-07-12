@@ -8,15 +8,7 @@ public class Main {
         Employee employee1 = new Employee(101, "Smith", "John");
         Employee employee2 = new Employee(102, "Johnson", "Emma");
         Employee employee3 = new Employee(103, "Brown", "Michael");
-        Employee employee4 = new Employee(104, "Davis", "Sophia");
-        Employee employee5 = new Employee(105, "Wilson", "Daniel");
-        Employee employee6 = new Employee(106, "Taylor", "Olivia");
-        employees.add(employee1);
-        employees.add(employee2);
-        employees.add(employee3);
-        employees.add(employee4);
-        employees.add(employee5);
-        employees.add(employee6);
+        Employee employee4 = new Employee(103, "Brown", "Michael");
         employees.add(employee1);
         employees.add(employee2);
         employees.add(employee3);
